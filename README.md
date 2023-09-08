@@ -2,6 +2,6 @@
 
 LINK
 
-https://sekhar0306.github.io/Mern-Full-Stack/
+# https://sekhar0306.github.io/Mern-Full-Stack/
 
 
